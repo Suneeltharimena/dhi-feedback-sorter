@@ -1,0 +1,3 @@
+{"text": "Flat white was cold and the queue in York took 20 minutes.", "category": "drinks", "sentiment": "negative", "refund_requested": false, "cafe": "York"}
+{"text": "Lovely staff in Leeds, they remembered my name.", "category": "service", "sentiment": "positive", "refund_requested": false, "cafe": "Leeds"}
+{"text": "£3.95 for a stale croissant? I want my money back.", "category": "price", "sentiment": "negative", "refund_requested": true, "cafe": null}
